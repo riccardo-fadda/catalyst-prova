@@ -24,4 +24,4 @@ jobs:
           type: now
           target_branch: main
           message: Merge ${{ github.base_ref }} branch into main
-
+          github_token: ${{ secrets.MY_TOKEN }}
