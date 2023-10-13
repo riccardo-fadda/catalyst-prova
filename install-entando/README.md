@@ -1,5 +1,5 @@
 
-# Entando CLI
+# Entando CLI 1.0.0
 
 The Entando CLI is a command-line tool for simplifying the installation of Entando. This tool streamlines the installation process and provides a guided experience to set up Entando in your Kubernetes cluster.
 
